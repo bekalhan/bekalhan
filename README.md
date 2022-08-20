@@ -23,4 +23,5 @@
 
 ![challenge-accepted-actor](https://user-images.githubusercontent.com/77151270/185739625-9ef81f46-125d-472a-93fc-fd5449854f7c.gif)
 
+![himym-barney](https://user-images.githubusercontent.com/77151270/185739673-c5c8b9a6-2e8c-4005-9d58-9b70e33bb350.gif)
 
