@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Root</h1>
+<h1 align="center">Hi 👋, I'm Kalhan</h1>
 <h3 align="center">am ~R from Turkey and I do content on Design and Development.I have been in interested react.js,nodejs and other javascript libraies.You can check my linkedln profile => https://www.linkedin.com/in/berat-kalhan-76a1391ba/</h3>
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Asp.net , Next.js**
+- 🌱 I’m currently learning **Spring boot , Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bekalhan](https://github.com/bekalhan)
 
-- 💬 Ask me about **reactjs,node.js**
+- 💬 Ask me about **reactjs,Spring-boot**
 
 - 📫 How to reach me **beratkalhan99@gmail.com**
 
